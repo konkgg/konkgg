@@ -12,9 +12,18 @@ I'm a Computer Science student at Kennesaw State University. Currently working a
 
 ## 🏆 Experience
 
+
+### Artificial Intelligence Intern | Mohawk Group
+- Developed an internal AI tool to enhance the design process, empowering designers with advanced capabilities
+- Created seamless integrations for databases and websites, ensuring efficient data flow and accessibility
+- Managed local deployment strategies to safeguard sensitive internal data from third-party exposure.• Developed an internal AI tool to enhance the design process, empowering designers with advanced capabilities
+
+
 ### Software Engineer Intern | Mohawk Group
 - Engineered a client-server application for optimizing custom carpet order processing
-- Developed an application to improve Design workflows
+- Developed a CAD application that streamlined flooring estimations
+- Created integrations for existing internal applications, improving data flow and user experience
+- Updated legacy applications written in LISP, ensuring compatibility with modern systems
 - Built backend services with Java Spring framework and SQL
 
 ### ServiceNow IT Operations Management Coop | Shaw Industries
